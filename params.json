@@ -1,6 +1,0 @@
-{
-  "name": "风萧萧兮易水寒 壮士一去兮不复还",
-  "tagline": "易水寒",
-  "body": "# 欢迎来到我的github项目网页！\r\n### * 前言\r\n##ListView的Adapter相信Android的小伙伴都非常的熟悉了，有很多人还会有一些很好的办法，看了很多优秀的这方面的文章，自己也有了一些自己的看法，这些想法多了，就会如梗在喉，不吐不快。\r\n### *概述\r\nListView是我们项目中最为常用的控件之一，它很好的贯彻了Java的一个类只做一件事的面向对象编程的思想，同时很好的诠释了JavaEE MVC编程思想，从这个方向理解，ListView就是MVC的V了，Adapter就是C,M嘛，就是我们的数据模型，至于是什么样的数据 ，就要看我们的业务逻辑了。\r\n\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
